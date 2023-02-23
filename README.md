@@ -1,6 +1,7 @@
+<h1 align="center">Hi , I'm Maha Medhat</h1>
+<h3 align="center">Passionate hardworking Biomedical Engineering student, Looking For opportunities and Internships to Craft my Skills and Knowledge</h3>
 # 💫 About Me:
 - I am a senior1 student studying systems and biomedical engineering at cairo university <br>
-- Currently open for an `An Internship`  <br>
 - Contact email *maha.mostafa011@eng-st.cu.edu.eg* 📫
 
 ## 🌐 Socials:
