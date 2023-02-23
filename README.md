@@ -1,4 +1,3 @@
-(https://mahamedhat.github.io/)
 # 💫 About Me:
 - I am a senior1 student studying systems and biomedical engineering at cairo university <br>
 - Currently open for an `An Intern` or a new `Job Opportunity` :blush: <br>
