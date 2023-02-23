@@ -1,7 +1,6 @@
-[![MasterHead]](https://mahamedhat.github.io/)
-
+(https://mahamedhat.github.io/)
 # 💫 About Me:
-- I am currently a Senior1 at the Faculty of Engineering Systems & Biomedical Department Cairo University <br>
+- I am a senior1 student studying systems and biomedical engineering at cairo university <br>
 - Currently open for an `An Intern` or a new `Job Opportunity` :blush: <br>
 - Contact email *maha.mostafa011@eng-st.cu.edu.eg* 📫
 
