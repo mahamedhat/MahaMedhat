@@ -1,4 +1,4 @@
-[![MasterHead](https://res.cloudinary.com/practicaldev/image/fetch/s--a0VqOvf_--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/4a6t7pmm323uaz9rv1rf.png)](https://mahamedhat.github.io/)
+[![MasterHead]](https://mahamedhat.github.io/)
 
 # 💫 About Me:
 - I am currently a Senior1 at the Faculty of Engineering Systems & Biomedical Department Cairo University <br>
